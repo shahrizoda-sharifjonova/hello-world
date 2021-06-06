@@ -1,0 +1,8 @@
+body{
+  background: #ddd;
+}
+
+.header__title{
+  font-size: 24px;
+  color: #333;
+}
